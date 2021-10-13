@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+每天都要感谢党和国家，努力拼搏！
+
 <!--
 **xiaodong1947/xiaodong1947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
