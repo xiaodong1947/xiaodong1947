@@ -1,8 +1,4 @@
-- 🌱 I’m currently learning CV ROS SLAM and Deep Learning.
-- 💬 Ask me about anything.
-- 📫 How to reach me: email plz.
-
-### 内在驱动力
+### 🌱内在驱动力
 
 信任信任的力量，传递分享的快乐。
 
