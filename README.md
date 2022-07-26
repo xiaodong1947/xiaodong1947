@@ -2,11 +2,11 @@
 
 信任信任的力量，传递分享的快乐。
 
+### 💬主观能动性
+
+努力工作，享受生活，顺其自然。
+
 <!--
-
-### 锻造屋
-
-[English Learning](https://app.gitbook.com/s/-MkaOPxEN5PMj0jsDyaO/)
 
 ### 忆与思
 
