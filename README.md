@@ -12,4 +12,4 @@ Time | Place | Content
 
 ### 🎶 Rain
 
-Integrated Navigation System, NeRF and Game Art & Design;
+白首太玄經
