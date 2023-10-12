@@ -1,4 +1,4 @@
-### 🌱 Face
+### 🌱 Mind
 
 Understanding philosophical problems from the perspective of science.
 
@@ -10,6 +10,6 @@ Time | Place | Content
 2020.7 - 2023.6 | SouthSurvey | Software Engineer
 2023.6 -  | MercuryNavi | Software Engineer
 
-### 🎶 Rain
+### 🎶 Poetry
 
 白首太玄經
