@@ -17,4 +17,4 @@ Time | Place | Mood
 
 ⚛️: C++, Python
 
-🔅: GNSS, SLAM, ROS, Point cloud, Vison
+🔅: GNSS, INS, SLAM, ROS, Point cloud, Vison 
